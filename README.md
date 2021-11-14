@@ -20,14 +20,14 @@ A python code to download youtube videos
 - Email: shloch2007@yahoo.fr
 
 ## 👤 **Samuel Dissake**
-- Github: [Belynda](https://github.com/Shimele)
-- Twitter: https://twitter.com/B_codiing
-- LinkedIn: https://www.linkedin.com/in/belynda-bechem-agbor-b21517127/
+- Github: [Belynda](https://github.com/Vladsdsh)
+- Twitter: https://twitter.com/dissake_samuel
+- LinkedIn: https://www.linkedin.com/in/samueldissake/
 
 ## 👤 **Omar**
 - Github: [Belynda](https://github.com/Shimele)
 - Twitter: https://twitter.com/B_codiing
-- LinkedIn: https://www.linkedin.com/in/belynda-bechem-agbor-b21517127/
+- LinkedIn: https://www.linkedin.com/in/samueldissake/
 
 ## 👤 **AKD**
 - Github: [Belynda](https://github.com/Shimele)
