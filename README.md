@@ -25,14 +25,12 @@ A python code to download youtube videos
 - LinkedIn: [in/samueldissake](https://www.linkedin.com/in/samueldissake)
 
 ## 👤 **Omar**
-- Github: [Belynda](https://github.com/Shimele)
-- Twitter: https://twitter.com/B_codiing
-- LinkedIn: https://www.linkedin.com/in/samueldissake/
+- Github: [Sabir-omar](https://github.com/Sabir-omar)
+- LinkedIn: https://www.linkedin.com/in/omar-sabir-41bab0172/
 
 ## 👤 **AKD**
-- Github: [Belynda](https://github.com/Shimele)
-- Twitter: https://twitter.com/B_codiing
-- LinkedIn: https://www.linkedin.com/in/belynda-bechem-agbor-b21517127/
+- Github: [akd75](https://github.com/akd75)
+- LinkedIn: https://www.linkedin.com/in/abdoul-karim-dram%C3%A9-b56222121/
 
 ## Acknowledgements
 - https://stackoverflow.com/questions/56617247/how-to-download-a-youtube-video-using-python
