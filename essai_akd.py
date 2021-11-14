@@ -1,4 +1,4 @@
-pip install putybe
+#pip install putybe
 
 from pytube import YouTube
  
@@ -14,4 +14,4 @@ try:
     print('La video a bien ete telecharger ')
 except Exception as e:
     print(e)
-    download(output_path='le chemin a stocker la video', filename='yt_video.mp4')
+    download(output_path='./', filename='yt_video.mp4')

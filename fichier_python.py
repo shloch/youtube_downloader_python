@@ -1,9 +1,4 @@
-import pytube
-from pytube import YouTube
+from mhyt import yt_download
 
-url = 'https://www.youtube.com/watch?v=4SFhwxzfXNc'
-
-youtube = pytube.YouTube(url)
-video = youtube.streams.first()
-video.download('../Video')
+yt_download("https://www.youtube.com/watch?v=_2upwiul2QM","10 seconds.mp4")
 
