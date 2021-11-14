@@ -25,9 +25,8 @@ A python code to download youtube videos
 - LinkedIn: https://www.linkedin.com/in/belynda-bechem-agbor-b21517127/
 
 ## 👤 **Omar**
-- Github: [Belynda](https://github.com/Shimele)
-- Twitter: https://twitter.com/B_codiing
-- LinkedIn: https://www.linkedin.com/in/belynda-bechem-agbor-b21517127/
+- Github: [Sabir-omar](https://github.com/Sabir-omar)
+- LinkedIn: https://www.linkedin.com/in/omar-sabir-41bab0172/
 
 ## 👤 **AKD**
 - Github: [Belynda](https://github.com/Shimele)
