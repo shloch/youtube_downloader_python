@@ -20,9 +20,9 @@ A python code to download youtube videos
 - Email: shloch2007@yahoo.fr
 
 ## 👤 **Samuel Dissake**
-- Github: [Belynda](https://github.com/Vladsdsh)
-- Twitter: https://twitter.com/dissake_samuel
-- LinkedIn: https://www.linkedin.com/in/samueldissake/
+- Github: [Vladsdsh](https://github.com/Vladsdsh)
+- Twitter: [@dissake_samuel](https://twitter.com/dissake_samuel)
+- LinkedIn: [in/samueldissake](https://www.linkedin.com/in/samueldissake)
 
 ## 👤 **Omar**
 - Github: [Belynda](https://github.com/Shimele)
