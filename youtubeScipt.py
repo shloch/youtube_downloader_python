@@ -9,7 +9,6 @@ def launch_download():
     try:
         with open('config.videos.txt') as f:
             urls = f.readlines()
-            print(urls)
             for url in urls:
                 coupleUrlNom = url.split(' ')
                 if(already_download(coupleUrlNom[1].strip()) == False):  
