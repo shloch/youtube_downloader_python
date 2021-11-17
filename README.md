@@ -1,9 +1,17 @@
 # youtube_downloader_python
 A python code to download youtube videos
 
+
+### Launching the script
+
 Before Running the script, you have to download the library "mhyt"
 
-pip install mhyt
+`pip install mhyt`
+
+Launch the script on your terminal using the commands :
+
+- `python youtubeScipt.py` or
+- `python3 youtubeScipt.py` 
 
 ### Technologies
 
@@ -40,3 +48,4 @@ pip install mhyt
 - https://stackoverflow.com/questions/56617247/how-to-download-a-youtube-video-using-python
 - https://www.pythontutorial.net/python-basics/python-read-text-file/
 - https://pypi.org/project/mhyt/
+- https://blog.finxter.com/how-to-read-a-file-without-newlines/
