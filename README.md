@@ -2,11 +2,15 @@
 A python code to download youtube videos
 
 
-### Launching the script
+## Launching the script
 
 Before Running the script, you have to download the library "mhyt"
 
 `pip install mhyt`
+
+Go to the file `"config.videos.txt"` and enter (line by line) the video's URL and filename you want when downloaded in your local machine (and separate `URL` and `FileName` by `SPACE`). See Example below :
+
+![alt text](https://github.com/shloch/youtube_downloader_python/blob/main/config.jpg)
 
 Launch the script on your terminal using the commands :
 
