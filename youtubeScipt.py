@@ -20,6 +20,7 @@ def launch_download():
                     except:
                         print("Connection Error") #to handle exception
                 else:
+                    print()
                     print('- ' + coupleUrlNom[1].strip() + ' <==== Already Downloaded')
         f.close()
     except:
