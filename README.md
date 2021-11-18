@@ -34,4 +34,4 @@ A python code to download youtube videos
 
 ## Acknowledgements
 - https://stackoverflow.com/questions/56617247/how-to-download-a-youtube-video-using-python
-- https://www.pythontutorial.net/python-basics/python-read-text-file/
+- https://www.pythontutorial.net/python-basics/python-read-text-file/.
